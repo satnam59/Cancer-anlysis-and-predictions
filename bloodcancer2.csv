@@ -1,0 +1,6 @@
+Age,WBC_Count,RBC_Count,Platelet_Count,Genetic_Mutation,Cancer
+12,15000,4.5,120000,Yes,Yes
+25,8000,5,250000,No,No
+37,22000,3.8,100000,Yes,Yes
+45,9000,4.9,210000,No,No
+30,18000,4.2,140000,Yes,Yes
